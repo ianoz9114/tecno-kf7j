@@ -23,5 +23,5 @@ the images here were tested on build with v373, kf7j  if you do not know what th
 
 
 **CONTACT**
+
 [contact](https://chat.whatsapp.com/IZGmkyP2afz4fRDg6EYfOi)
-[magisk_img.tar.gz](https://github.com/ianoz9114/tecno-kf7j/files/10493210/magisk_img.tar.gz)
