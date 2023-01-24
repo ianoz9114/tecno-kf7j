@@ -1,4 +1,4 @@
-**guide for rooting tecno spark 7 pro (kf7j)**
+**GUIDE FOR ROOTING TECNO SPARK 7 PRO (KF7J)**
 
 
 **Prerequisites**
