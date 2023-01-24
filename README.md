@@ -9,9 +9,13 @@
 
 -     Download files provided here 
 -     save to your pc(or linux)
--     Put your device in fastboot
--     open terminal adb on your pc
+-     open terminal 
+-     enable usb debugging 
+-     unlock bootloader
+-     type adb devices then follow instrcutions on android screen
+-     Put your device in fastboot ( run adb reboot bootloader) 
 -     type fastboot devices to check if the device is detected
+-     type fastboot flashing unlock then follow the instructions on screen 
 -     fastboot flash boot magisk_patched-25200_xLsNc.img Done!
 -     fastboot flash vbmeta vbmeta.img  Done!
 
