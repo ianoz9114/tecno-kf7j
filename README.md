@@ -1,4 +1,3 @@
-Disclaimer warning this test on KF7J so if your model is different first contact then try!
 **GUIDE FOR ROOTING TECNO SPARK 7 PRO (KF7J)**
 
 **Prerequisites**
