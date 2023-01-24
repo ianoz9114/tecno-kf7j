@@ -8,7 +8,7 @@
 **[Steps]**
 
 -     Download files provided here 
--     save to your pc adb root
+-     save to your pc(or linux)
 -     Put your device in fastboot
 -     open terminal adb on your pc
 -     type fastboot devices to check if the device is detected
