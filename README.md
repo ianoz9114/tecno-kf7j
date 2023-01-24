@@ -1,3 +1,6 @@
+**guide for rooting tecno spark 7 pro (kf7j)**
+
+
 **Prerequisites**
 
 - Computer with adb and fastboot installed (they're in the Android Platform Tools)
