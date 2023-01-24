@@ -7,7 +7,7 @@
 
 **[Steps]**
 
--     Download files provided here [magisk_img.tar.gz](https://github.com/ianoz9114/tecno-kf7j/files/10493236/magisk_img.tar.gz)
+-     Download files provided here 
 -     save to your pc adb root
 -     Put your device in fastboot
 -     open terminal adb on your pc
