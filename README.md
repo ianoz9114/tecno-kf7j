@@ -22,9 +22,12 @@
 -     fastboot flash vbmeta vbmeta.img  Done!
 
     Done
-**CAUTION** 
-i patched the boot image using magisk version 25.2
-the images here were tested on build with v373, kf7j  if you do not know what this means, please contact first 
+    
+    
+**CAUTION**
+
+I patched the boot image using magisk version 25.2
+The images here were tested on build with v373, kf7j  if you do not know what this means, please contact first. 
 
 
 **CONTACT**
